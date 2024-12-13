@@ -10,7 +10,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-// Valid database API types
+// Valid database API types such as CosmosDB
 const (
 	AZURE_COSMOS_DB_SQL_API = "cosmosdbsql"
 )
